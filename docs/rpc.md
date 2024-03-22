@@ -46,6 +46,8 @@ You could find more endpoints from **[here](https://chainlist.org/chain/56)**.
 
 * **Ankr:** <https://app.ankr.com/api>
 
+* **dRPC:** <https://drpc.org/chainlist/bsc>
+
 * **Chainstack:** <https://chainstack.com/build-better-with-binance-smart-chain/>
 
 * **GetBlock:** <https://getblock.io/nodes/bsc>
